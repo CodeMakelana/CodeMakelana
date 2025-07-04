@@ -81,7 +81,7 @@ My approach to teaching programming is built on three pillars:
 ## 🌱 Current Learning Focus
 
 - 📖 Advanced Data Structures (COS212)
-- 🔧 Software Engineering Principles[Design Patterns] (COS214)
+- 🔧 Software Engineering Principles [Design Patterns] (COS214)
 - 🌐 Network Programming (COS216)
 - 🗄️ Database Design and Implementation (COS221)
 
