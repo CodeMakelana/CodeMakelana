@@ -42,28 +42,8 @@ I'm a passionate Computer Science student at the University of Pretoria with a g
 
 ## 📚 Educational Projects
 
-I believe in learning by teaching. Here are some educational tools I've created to help students understand complex C++ concepts:
+I believe in learning by teaching. Here is where I will post links to projects that will help students understand complex C++ concepts:
 
-### 🎯 [C++ Student Management System](https://github.com/CodeMakelana/cpp-student-management-system)
-A comprehensive OOP demonstration featuring:
-- **Inheritance & Polymorphism** with clear, real-world examples
-- **Smart Pointer Usage** for modern C++ memory management
-- **STL Integration** showcasing best practices
-- **Template Programming** for generic solutions
-
-### 🔗 [Interactive Linked List Tutorial](https://github.com/CodeMakelana/cpp-linked-list-tutorial)
-An educational tool that makes data structures visual:
-- **ASCII Visualizations** to see the data structure
-- **Step-by-Step Operations** with detailed explanations
-- **Common Pitfall Prevention** with teaching comments
-- **Interactive Mode** for hands-on learning
-
-### 💾 [Pointer & Memory Management Demonstrator](https://github.com/CodeMakelana/cpp-pointer-memory-tutorial)
-Demystifying the most challenging C++ concepts:
-- **Real-time Memory Tracking** to prevent leaks
-- **Visual Address Representation** for clarity
-- **Common Mistake Examples** with fixes
-- **Interactive Demonstrations** for each concept
 
 ## 🏆 Achievements
 
