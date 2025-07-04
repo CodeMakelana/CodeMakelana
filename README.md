@@ -12,7 +12,7 @@
 
 I'm a passionate Computer Science student at the University of Pretoria with a genuine love for helping others understand programming concepts. Whether it's debugging a tricky pointer problem or explaining inheritance hierarchies, I find joy in those "lightbulb moments" when complex concepts finally click.
 
-> "The best way to learn is to teach" - This philosophy drives my approach to both studying and helping peers.
+> "The best way to learn is to teach" - This philosophy drives my approach to both studying and helping others learn as well as best as possible.
 
 ## 🚀 What I'm Up To
 
