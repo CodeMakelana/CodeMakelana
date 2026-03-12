@@ -3,7 +3,7 @@
 <div align="center">
   
   [![University](https://img.shields.io/badge/University%20of%20Pretoria-BSc%20Computer%20Science-003B5C?style=for-the-badge)](https://www.up.ac.za/)
-  [![Year](https://img.shields.io/badge/Year-2nd%20Year-4CAF50?style=for-the-badge)](https://github.com/CodeMakelana)
+  [![Year](https://img.shields.io/badge/Year-3rd%20Year-4CAF50?style=for-the-badge)](https://github.com/CodeMakelana)
   [![Focus](https://img.shields.io/badge/Focus-Teaching%20%26%20Learning-FF6B6B?style=for-the-badge)](https://github.com/CodeMakelana)
   
 </div>
