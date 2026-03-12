@@ -16,7 +16,7 @@ I'm a passionate Computer Science student at the University of Pretoria with a g
 
 ## 🚀 What I'm Up To
 
-- 🏫 **Studying**: 2nd Year BSc Computer Science at University of Pretoria
+- 🏫 **Studying**: Final (3rd) Year BSc Computer Science at University of Pretoria
 - 👨‍🏫 **Teaching**: Computer Literacy through the JCP Module at TUKS
 - 💡 **Creating**: Educational C++ tools to help students master challenging concepts
 - 🎯 **Goal**: Becoming a COS110 tutor to support fellow students in their programming journey
